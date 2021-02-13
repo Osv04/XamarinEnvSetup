@@ -3,7 +3,7 @@
 ## Before
 
 <p align="center">
-  <img width="1080" height="1080" src="https://github.com/Osv04/XamarinEnvSetup/blob/master/Before.png?raw=true">
+  <img width="420" height="420" src="https://github.com/Osv04/XamarinEnvSetup/blob/master/Before.png?raw=true">
 </p>
 
 ## After
