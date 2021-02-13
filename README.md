@@ -8,5 +8,5 @@
 
 ## After
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Osv04/XamarinEnvSetup/blob/master/After.png?raw=true">
+  <img src="https://github.com/Osv04/XamarinEnvSetup/blob/master/After.png?raw=true">
 </p>
